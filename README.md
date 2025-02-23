@@ -1,1 +1,1 @@
-# CryptoHotel.Club
+index.html
